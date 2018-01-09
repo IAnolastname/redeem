@@ -5,7 +5,7 @@ Configuration Settings
 -  ``default.cfg`` is the bible, all configs must be defined in there.
 -  All configurations in default.cfg can be overridden
 -  default.cfg and printer.cfg can be changed with updates. ``local.cfg`` can not.
--  Here is the config hierarchy: ``local.cfg`` > ``printer.cfg`` > ``deafult.cfg``
+-  Here is the config hierarchy: ``local.cfg`` > ``printer.cfg`` > ``default.cfg``
 
 For Redeem, the preferred way to handle configuration is through the web
 interface. The web interface is available through
